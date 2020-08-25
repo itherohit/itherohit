@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 - 🦠 Checkout my latest project to track covid19 cases around the world www.mapcoronacases.xyz
 - 🔭 I’m currently working with React.
 - 🌱 I’m currently learning React
