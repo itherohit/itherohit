@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rohit!
 - 🦠 Checkout my latest project to track covid19 cases around the world www.mapcoronacases.xyz
 - 🔭 I’m currently working with React.
 - 🌱 I’m currently learning React
