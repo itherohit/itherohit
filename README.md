@@ -13,6 +13,14 @@ src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-pla
 src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
+## My Works
+- [Covid Tracker - Map Corona Cases](https://www.mapcoronacases.xyz/)
+- [Daksh - Techno Fest](https://daksh2k21.herokuapp.com/)
+- [Alinea Ventures](https://www.alineaventures.in/)
+- [Freshworks UI](https://itherohit.github.io/FreshworkUI/)
+- [Manage UI](https://itherohit.github.io/FreshworkUI/)
+- [Foody Blinders - Cafe Management](http://foody-blinders.herokuapp.com/)
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itherohit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
