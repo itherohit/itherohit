@@ -21,6 +21,15 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 - [Manage UI](https://itherohit.github.io/FreshworkUI/)
 - [Foody Blinders - Cafe Management](http://foody-blinders.herokuapp.com/)
 
+## Find Me Here 👇🏻
+
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/itherohit)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/itherohit)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/ro0hit_/) 
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-rohitshan751@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohitshan751@gmail.com)](mailto:rohitshan751@gmail.com)
+
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itherohit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
