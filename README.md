@@ -32,7 +32,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itherohit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=itherohit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=itherohit)](https://github.com/itherohit/github-readme-stats)
 
