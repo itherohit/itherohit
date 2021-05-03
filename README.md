@@ -18,10 +18,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 - [Daksh - Techno Fest](https://daksh2k21.herokuapp.com/)
 - [Alinea Ventures](https://www.alineaventures.in/)
 - [Freshworks UI](https://itherohit.github.io/FreshworkUI/)
-- [Manage UI](https://itherohit.github.io/FreshworkUI/)
+- [Manage UI](https://itherohit.github.io/DSCFrontEnd-Manage/)
 - [Foody Blinders - Cafe Management](http://foody-blinders.herokuapp.com/)
 
-## Find Me Here 👇🏻
+## Let's be connected 👇🏻
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/itherohit)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/itherohit)
