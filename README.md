@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with ReactJs
 - 🌱 I’m currently learning NextJs
 - 📫 How to reach me: rohitshan751@gmail.com
-- ⚡ Joke? => I don't see women as "Objects", I consider each to be in a "Class" of her own.
+- ⚡ Joke? => What did Java say to the C? You have no Class.
 
 
 ## Technologies I have worked with
