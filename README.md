@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Rohit!
-- 🦠 Checkout my latest project to track covid19 cases around the world www.mapcoronacases.xyz
+- 🦠 Checkout my project to track covid19 cases around the world www.mapcoronacase.xyz
+- ⚡ Check my other projects and certificates https://www.linkedin.com/in/itherohit/
 - 🔭 I’m currently working with ReactJs
 - 🌱 I’m currently learning NextJs
 - 📫 How to reach me: rohitshan751@gmail.com
