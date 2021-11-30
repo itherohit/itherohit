@@ -16,8 +16,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 
 ## My Works
 - [Covid Tracker - Map Corona Cases](https://www.mapcoronacases.xyz/)
-- [Daksh - Techno Fest](https://daksh2k21.herokuapp.com/)
+- [Daksh - Techno Fest](https://www.dakshtech.org/)
+- [Spotify Drive](https://spotify-clone-275ce.web.app/)
 - [Alinea Ventures](https://www.alineaventures.in/)
+- [Netflix Clone](https://naughty-babbage-8c4a03.netlify.app/)
 - [Freshworks UI](https://itherohit.github.io/FreshworkUI/)
 - [Manage UI](https://itherohit.github.io/DSCFrontEnd-Manage/)
 - [Foody Blinders - Cafe Management](http://foody-blinders.herokuapp.com/)
